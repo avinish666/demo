@@ -26,7 +26,6 @@
     "jest": "^30.0.5"
   },
   "jest": {
-    "testEnvironment": "node",
-    "extensionsToTreatAsEsm": [".js"]
+    "testEnvironment": "node"
   }
 }
